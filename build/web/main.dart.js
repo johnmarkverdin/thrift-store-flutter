@@ -90845,7 +90845,7 @@ A.o2.prototype={
 an(){var s=$.az()
 return new A.YA(new A.hv(B.bz,s),new A.hv(B.bz,s))}}
 A.YA.prototype={
-M(a){var s,r,q,p,o,n=this,m=null,l=A.v8(a,!0,t.fo),k=A.j6(A.c5("\ud83d\udc33 John Mark M. Verdin, Klint Piosca, Jhared Jimenez Thrift Shop",m,m,m,A.dz().$3$color$fontSize$fontWeight(B.j,32,B.ad),B.fe,m),B.z,B.BE,m,m,B.nR,1/0),j=A.dn(16),i=A.dz().$1$color(B.bY)
+M(a){var s,r,q,p,o,n=this,m=null,l=A.v8(a,!0,t.fo),k=A.j6(A.c5("\ud83d\udc33 Verdin Thrift Shop",m,m,m,A.dz().$3$color$fontSize$fontWeight(B.j,32,B.ad),B.fe,m),B.z,B.BE,m,m,B.nR,1/0),j=A.dn(16),i=A.dz().$1$color(B.bY)
 i=A.DR(n.d,A.ur(m,new A.eW(4,A.dn(12),B.n),m,m,m,m,m,m,!0,m,m,m,m,m,m,B.em,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,i,"Email",!0,!0,m,B.H0,m,m,m,m,m,m,m,m,m,m,m,m),B.lI,1,!1,m)
 s=A.dz().$1$color(B.bY)
 s=A.DR(n.e,A.ur(m,new A.eW(4,A.dn(12),B.n),m,m,m,m,m,m,!0,m,m,m,m,m,m,B.em,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,s,"Password",!0,!0,m,B.H2,m,m,m,m,m,m,m,m,m,m,m,m),m,1,!0,m)
@@ -91102,7 +91102,7 @@ l===$&&A.a()
 l=l.gff().c
 s=l==null?n:l.z
 l=t.D
-r=A.qX(A.c([A.c5("\ud83d\udc33 Verdin, Barredo, Jimenez Thrift Store",n,n,n,A.t3().$3$color$fontSize$fontWeight(B.hC,24,B.ad),n,n),B.QW,A.a9j(n,n,B.H_,n,n,new A.aad(m,a),n,n,n)],l),B.ai,B.a1,B.aY,0)
+r=A.qX(A.c([A.c5("\ud83d\udc33 Verdin Thrift Store",n,n,n,A.t3().$3$color$fontSize$fontWeight(B.hC,24,B.ad),n,n),B.QW,A.a9j(n,n,B.H_,n,n,new A.aad(m,a),n,n,n)],l),B.ai,B.a1,B.aY,0)
 q=o.d
 q===$&&A.a()
 q=A.a6h(new A.BW(A.aF1(new A.aae(o,s,m),q,t.lw),o.gagM(),B.hC,n),1)
