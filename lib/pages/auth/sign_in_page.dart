@@ -48,7 +48,7 @@ class _SignInPageState extends State<SignInPage> {
                     ),
                   ),
                   child: Text(
-                    '🐳 John Mark M. Verdin, Klint Piosca, Jhared Jimenez Thrift Shop',
+                    '🐳 Verdin Thrift Shop',
                     textAlign: TextAlign.center,
                     style: GoogleFonts.montserrat(
                       fontSize: 32,
