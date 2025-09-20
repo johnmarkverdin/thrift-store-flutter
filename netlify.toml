@@ -3,4 +3,4 @@ command = "flutter build web --no-wasm-dry-run"
 publish = "build/web"
 
 [build.environment]
-FLUTTER_VERSION = "3.24.0"
+FLUTTER_VERSION = "3.35.4"
