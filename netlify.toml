@@ -1,0 +1,6 @@
+[build]
+command = "flutter build web --no-wasm-dry-run --web-renderer html"
+publish = "build/web"
+
+[build.environment]
+FLUTTER_VERSION = "87.1" # replace with your actual Flutter version
