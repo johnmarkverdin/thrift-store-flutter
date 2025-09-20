@@ -60,7 +60,7 @@ class ItemsPageState extends State<ItemsPage> {
                 child: Row(
                   children: [
                     Text(
-                      '🐳 Verdin, Barredo, Jimenez Thrift Store',
+                      '🐳 Verdin Thrift Store',
                       style: GoogleFonts.lato(
                         fontSize: 24,
                         fontWeight: FontWeight.bold,
